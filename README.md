@@ -1,6 +1,8 @@
 # Education-and-Practice-Projects
 This repository includes a lot of my old projects from University and some from personal practicing
 
+Be sure to click ont he little ellipsies on each link if you want to read my comments for some more information
+
 # For the Projects that are larger than 25MB go to my google drive.
 https://drive.google.com/drive/u/1/folders/1HZpUavoNQGxSmPYPCjE4cHa0xZ2VwbCC
 
